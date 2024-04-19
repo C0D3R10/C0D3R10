@@ -4,7 +4,7 @@
 >>>
 >>> Encrypted Files in github folder
 >>>
->>> sudo read command engaged
+>>>  >>> $ sudo read_file
 >>>
 >>> Now reading files...
 >>>
@@ -27,7 +27,7 @@
 >>>
 >>> Wait...
 >>>
->>> This is a Github Description?!?!?!
+>>> This is a Github Description?!
 
 <!---
 C0D3R10/C0D3R10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
