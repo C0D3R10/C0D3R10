@@ -8,9 +8,9 @@
 >>>
 >>> Now reading files...
 >>>
->>> "Whoever hears this.. I hope you missed the Chyboren event.
+>>> "Whoever hears this.. I hope you missed the Github event.
 >>> 
->>> It ripped through our population, making us all go crazy.
+>>> It ripped through our population, making us all go crazy with pull requests and actions.
 >>> I was the only survivor.
 >>>
 >>> My name is Ammon James and I am interested in coding and mechaniacal development.
